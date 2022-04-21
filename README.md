@@ -11,12 +11,12 @@ https://github.com/ParkYoungWoong/overwatch-hero-selector-vanilla
 
 이미지 이름에 숫자를 확인하세요! hero1.png~hero32.png
 
-~~~ https://raw.githubusercontent.com/ParkYoungWoong/overwatch-hero-selector-vanilla/master/images/hero1.png ~~~
+ > https://raw.githubusercontent.com/ParkYoungWoong/overwatch-hero-selector-vanilla/master/images/hero1.png 
 
 **Overwatch logo**
 
-~~~ https://raw.githubusercontent.com/ParkYoungWoong/overwatch-hero-selector-vanilla/master/images/logo_overwatch.png ~~~
+ > https://raw.githubusercontent.com/ParkYoungWoong/overwatch-hero-selector-vanilla/master/images/logo_overwatch.png
 
 **Background**
 
-~~~ https://raw.githubusercontent.com/ParkYoungWoong/overwatch-hero-selector-vanilla/master/images/bg.jpg ~~~
+ > https://raw.githubusercontent.com/ParkYoungWoong/overwatch-hero-selector-vanilla/master/images/bg.jpg 
